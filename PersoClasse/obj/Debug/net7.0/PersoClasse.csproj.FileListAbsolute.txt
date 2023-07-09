@@ -1,0 +1,15 @@
+C:\Users\Meu Computador\Documents\prog\CSharp\PersoClasse\bin\Debug\net7.0\PersoClasse.exe
+C:\Users\Meu Computador\Documents\prog\CSharp\PersoClasse\bin\Debug\net7.0\PersoClasse.deps.json
+C:\Users\Meu Computador\Documents\prog\CSharp\PersoClasse\bin\Debug\net7.0\PersoClasse.runtimeconfig.json
+C:\Users\Meu Computador\Documents\prog\CSharp\PersoClasse\bin\Debug\net7.0\PersoClasse.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\PersoClasse\bin\Debug\net7.0\PersoClasse.pdb
+C:\Users\Meu Computador\Documents\prog\CSharp\PersoClasse\obj\Debug\net7.0\PersoClasse.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\PersoClasse\obj\Debug\net7.0\PersoClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Documents\prog\CSharp\PersoClasse\obj\Debug\net7.0\PersoClasse.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\PersoClasse\obj\Debug\net7.0\PersoClasse.AssemblyInfo.cs
+C:\Users\Meu Computador\Documents\prog\CSharp\PersoClasse\obj\Debug\net7.0\PersoClasse.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\PersoClasse\obj\Debug\net7.0\PersoClasse.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\PersoClasse\obj\Debug\net7.0\refint\PersoClasse.dll
+C:\Users\Meu Computador\Documents\prog\CSharp\PersoClasse\obj\Debug\net7.0\PersoClasse.pdb
+C:\Users\Meu Computador\Documents\prog\CSharp\PersoClasse\obj\Debug\net7.0\PersoClasse.genruntimeconfig.cache
+C:\Users\Meu Computador\Documents\prog\CSharp\PersoClasse\obj\Debug\net7.0\ref\PersoClasse.dll
